@@ -338,16 +338,6 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 🙏 Acknowledgments
-
-* **Anthropic** - Claude AI language model
-* **Lucide** - Beautiful open-source icons
-* **Tailwind CSS** - Utility-first CSS framework
-* **React** - JavaScript library for building user interfaces
-* **Create React App** - React development tooling
-
----
-
 ## 📈 Project Stats
 
 * **6 Subjects** with comprehensive coverage
